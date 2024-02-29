@@ -1,0 +1,16 @@
+{
+  "name": "interest-bearing-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PBillingsby",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^1.5.1",
+    "@solana/spl-token": "^0.4.1",
+    "@solana/web3.js": "^1.90.0"
+  }
+}
